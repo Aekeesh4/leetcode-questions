@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aekeesh4/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Aekeesh4/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aekeesh4/leetcode-questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
