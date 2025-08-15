@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aekeesh4/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
