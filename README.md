@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/Aekeesh4/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 ## Interactive
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
