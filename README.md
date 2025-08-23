@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aekeesh4/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Aekeesh4/leetcode-questions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
