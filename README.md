@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aekeesh4/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aekeesh4/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
