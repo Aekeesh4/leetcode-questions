@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aekeesh4/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Aekeesh4/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Aekeesh4/leetcode-questions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aekeesh4/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Aekeesh4/leetcode-questions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Aekeesh4/leetcode-questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Aekeesh4/leetcode-questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 ## Matrix
