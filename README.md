@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aekeesh4/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aekeesh4/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aekeesh4/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
