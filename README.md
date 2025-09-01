@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Aekeesh4/leetcode-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aekeesh4/leetcode-questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Aekeesh4/leetcode-questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aekeesh4/leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aekeesh4/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aekeesh4/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aekeesh4/leetcode-questions/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
