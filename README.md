@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aekeesh4/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aekeesh4/leetcode-questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Aekeesh4/leetcode-questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Aekeesh4/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aekeesh4/leetcode-questions/tree/master/0075-sort-colors) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Aekeesh4/leetcode-questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Aekeesh4/leetcode-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
