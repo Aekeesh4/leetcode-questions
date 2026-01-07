@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aekeesh4/leetcode-questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aekeesh4/leetcode-questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Aekeesh4/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aekeesh4/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aekeesh4/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Aekeesh4/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aekeesh4/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aekeesh4/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
