@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aekeesh4/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Aekeesh4/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aekeesh4/leetcode-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aekeesh4/leetcode-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Aekeesh4/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Aekeesh4/leetcode-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0090-subsets-ii) |
