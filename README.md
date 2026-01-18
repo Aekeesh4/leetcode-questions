@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aekeesh4/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aekeesh4/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aekeesh4/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aekeesh4/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aekeesh4/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aekeesh4/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
