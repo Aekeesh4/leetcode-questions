@@ -273,4 +273,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
