@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Aekeesh4/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0202-happy-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aekeesh4/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aekeesh4/leetcode-questions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Aekeesh4/leetcode-questions/tree/master/2050-count-good-numbers) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aekeesh4/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
