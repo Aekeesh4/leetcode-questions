@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aekeesh4/leetcode-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Aekeesh4/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aekeesh4/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aekeesh4/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Aekeesh4/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
