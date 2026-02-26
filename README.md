@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -304,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
