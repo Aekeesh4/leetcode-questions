@@ -313,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Aekeesh4/leetcode-questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
