@@ -309,12 +309,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 ## Database
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Aekeesh4/leetcode-questions/tree/master/0197-rising-temperature) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
