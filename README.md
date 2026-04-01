@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aekeesh4/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Aekeesh4/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 ## Interactive
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aekeesh4/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aekeesh4/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aekeesh4/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aekeesh4/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -289,18 +293,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
