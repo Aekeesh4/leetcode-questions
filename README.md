@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aekeesh4/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Aekeesh4/leetcode-questions/tree/master/0792-binary-search) |
+| [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Aekeesh4/leetcode-questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aekeesh4/leetcode-questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aekeesh4/leetcode-questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 ## Graph Theory
 |  |
 | ------- |
