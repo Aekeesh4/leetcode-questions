@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aekeesh4/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aekeesh4/leetcode-questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Aekeesh4/leetcode-questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aekeesh4/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aekeesh4/leetcode-questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
@@ -342,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
