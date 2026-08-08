@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/Aekeesh4/leetcode-questions/tree/master/0197-rising-temperature) |
 ## Binary Search Tree
 |  |
