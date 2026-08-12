@@ -334,12 +334,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 ## Graph Theory
 |  |
@@ -361,12 +363,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Database
 |  |
 | ------- |
