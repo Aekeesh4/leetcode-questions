@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aekeesh4/leetcode-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Aekeesh4/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aekeesh4/leetcode-questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aekeesh4/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Aekeesh4/leetcode-questions/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aekeesh4/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
