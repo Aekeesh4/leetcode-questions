@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
