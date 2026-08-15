@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 | [0993-cousins-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0993-cousins-in-binary-tree) |
 ## Database
