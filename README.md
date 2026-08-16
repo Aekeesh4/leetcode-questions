@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Aekeesh4/leetcode-questions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aekeesh4/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aekeesh4/leetcode-questions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aekeesh4/leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aekeesh4/leetcode-questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
