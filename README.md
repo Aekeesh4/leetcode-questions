@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aekeesh4/leetcode-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Aekeesh4/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aekeesh4/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aekeesh4/leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aekeesh4/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0815-bus-routes](https://github.com/Aekeesh4/leetcode-questions/tree/master/0815-bus-routes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aekeesh4/leetcode-questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aekeesh4/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aekeesh4/leetcode-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Aekeesh4/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aekeesh4/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Aekeesh4/leetcode-questions/tree/master/0792-binary-search) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aekeesh4/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aekeesh4/leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aekeesh4/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Aekeesh4/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
