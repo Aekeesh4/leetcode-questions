@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aekeesh4/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/0812-rotate-string) |
+| [0824-goat-latin](https://github.com/Aekeesh4/leetcode-questions/tree/master/0824-goat-latin) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aekeesh4/leetcode-questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aekeesh4/leetcode-questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Aekeesh4/leetcode-questions/tree/master/2032-largest-odd-number-in-string) |
