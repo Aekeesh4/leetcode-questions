@@ -17,7 +17,8 @@ class Solution {
     public boolean isSymmetric(TreeNode root) {
         if(root==null)
         {
-            return false;
+            return true;
+
         }
         Queue<TreeNode> queue=new LinkedList<>();
         queue.offer(root.left);
@@ -27,8 +28,7 @@ class Solution {
         {
             TreeNode left=queue.poll();
             TreeNode right=queue.poll();
-
-            if(left==null&&right==null)
+            if(left==null && right==null)
             {
                 continue;
             }
@@ -40,12 +40,14 @@ class Solution {
             {
                 return false;
             }
-            
-            queue.offer(left.left);
-            queue.offer(right.right);
-            queue.offer(left.right);
-            queue.offer(right.left);
+
+        queue.offer(left.left);
+        queue.offer(right.right);
+        queue.offer(left.right);
+        queue.offer(right.left);
+
         }
-return true;
+        return true;
+
     }
 }
