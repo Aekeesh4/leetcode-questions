@@ -525,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aekeesh4/leetcode-questions/tree/master/0572-subtree-of-another-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Aekeesh4/leetcode-questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
