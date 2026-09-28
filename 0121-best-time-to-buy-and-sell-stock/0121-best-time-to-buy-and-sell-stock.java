@@ -6,11 +6,11 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             int cprofit=prices[i]-buyprice;
-            if(cprofit> maxprofit)
+            if(cprofit>maxprofit)
             {
                 maxprofit=cprofit;
             }
-            if(prices[i]<buyprice)
+            if(buyprice>prices[i])
             {
                 buyprice=prices[i];
             }
